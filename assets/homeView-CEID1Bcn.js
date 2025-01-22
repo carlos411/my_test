@@ -1,1 +1,0 @@
-import{c as _,o as a}from"./index-Dp5GTb_Y.js";const n=(e,o)=>{const t=e.__vccOpts||e;for(const[c,r]of o)t[c]=r;return t},s={__name:"homeView",setup(e){return(o,t)=>(a(),_("h1",null,"標題"))}},l=n(s,[["__scopeId","data-v-55acf920"]]);export{l as default};
