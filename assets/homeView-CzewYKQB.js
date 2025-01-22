@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as o,o as t}from"./index-BYB-fB-h.js";const c={__name:"homeView",setup(_){return(a,r)=>(t(),o("h1",null,"標題"))}},n=e(c,[["__scopeId","data-v-55acf920"]]);export{n as default};
